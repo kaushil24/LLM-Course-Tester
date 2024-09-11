@@ -3,7 +3,7 @@
 Reviewing lecture notes effectively can be a real challenge. I faced this problem myself and decided to create an app that lets you do that. Upload your lecture notes and have interactive quiz to practice using LLM.
 
 # Demo
-
+![demo](https://raw.githubusercontent.com/kaushil24/LLM-Course-Tester/main/demo.gif)
 
 # Working
 
